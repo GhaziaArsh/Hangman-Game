@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722938940 source:c:\users\pmls\desktop\hangman game\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
